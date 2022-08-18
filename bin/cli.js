@@ -3,7 +3,7 @@ import { Command } from "commander";
 import chalk from "chalk";
 import run from "../lib/run.js";
 
-const program = new Command("rb");
+const program = new Command("create-anya");
 
 program
   .version("0.0.1", "-v, --version", "output the current version")
