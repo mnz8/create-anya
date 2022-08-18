@@ -1,6 +1,6 @@
 {
   "name": "create-anya",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "create react bench",
   "main": "index.js",
   "author": "",
@@ -29,6 +29,6 @@
     "node": ">=16.13.1"
   },
   "bin": {
-    "rb": "./bin/cli.js"
+    "create-anya": "./bin/cli.js"
   }
 }
