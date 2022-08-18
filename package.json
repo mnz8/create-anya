@@ -1,17 +1,17 @@
 {
-  "name": "react-bench",
+  "name": "create-anya",
   "version": "0.0.1",
-  "description": "",
+  "description": "create react bench",
   "main": "index.js",
   "author": "",
   "license": "MIT",
-  "homepage": "https://github.com/line126/react-bench#readme",
+  "homepage": "https://github.com/line126/create-anya#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/line126/react-bench.git"
+    "url": "git+https://github.com/line126/create-anya.git"
   },
   "bugs": {
-    "url": "https://github.com/line126/react-bench/issues"
+    "url": "https://github.com/line126/create-anya/issues"
   },
   "type": "module",
   "scripts": {
