@@ -1,10 +1,6 @@
 # dependencies
 **/node_modules
 
-# misc
-yarn.lock
-package-lock.json
-pnpm-lock.yaml
-
+# log
 yarn-error.log
 npm-debug.log*
